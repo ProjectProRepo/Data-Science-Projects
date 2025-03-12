@@ -1,4 +1,4 @@
-## Build a Recommender System for Market Basket Analysis using Association Rule Mining.
+## Build a Recommender System for Market Basket Analysis using Association Rule Mining
 
 ## Overview
 When shopping on eCommerce platforms, you’ve likely noticed the "frequently bought together" section. This feature is powered by Market Basket Analysis, which uncovers hidden relationships between products to drive sales and enhance customer experience. By analyzing historical transaction data, retailers can identify which items are often purchased together and use this knowledge to optimize product recommendations and increase revenue.
