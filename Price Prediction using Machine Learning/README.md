@@ -13,7 +13,7 @@ This project leverages machine learning and time series forecasting techniques t
   - Random Forest Regressor
   - XGBoost Regressor
   - ARIMA & SARIMAX
-- Compare model performance using evaluation metrics such as **Mean Absolute Percentage Error (MAPE)** and **Mean Absolute Error (MAE)**
+- Compare model performance using evaluation metrics such as Mean Absolute Percentage Error (MAPE) and Mean Absolute Error (MAE)
 - Make final price predictions based on the best-performing model
 ## Dataset Description
 The dataset consists of weekly retail scan data of Hass avocados in the US from April 2015 to March 2018. It contains key features such as:
@@ -67,9 +67,9 @@ The dataset consists of weekly retail scan data of Hass avocados in the US from 
   - Facebook Prophet
 
 ### 5) Model Evaluation
-- **R-squared (R²)**
-- **Mean Absolute Percentage Error (MAPE)**
-- **Mean Absolute Error (MAE)**
+- R-squared (R²)
+- Mean Absolute Percentage Error (MAPE)
+- Mean Absolute Error (MAE)
 - Forecast visualization with confidence intervals
 
 ## Results & Findings
